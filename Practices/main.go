@@ -1,1 +1,7 @@
-package Practices
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, my name is Azamat Kabdrash")
+}
