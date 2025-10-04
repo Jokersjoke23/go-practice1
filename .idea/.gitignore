@@ -1,8 +1,19 @@
-# Default ignored files
+# Goland / IntelliJ IDEA
+/.idea/
 /shelf/
 /workspace.xml
-# Editor-based HTTP Client requests
 /httpRequests/
-# Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go modules cache (если что — можно убрать из игнора)
+go.sum
