@@ -5,6 +5,7 @@
 /httpRequests/
 /dataSources/
 /dataSources.local.xml
+/Materials/
 
 # Go build artifacts
 *.exe
